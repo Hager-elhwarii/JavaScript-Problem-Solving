@@ -1,24 +1,15 @@
-// //How to find a large number from inside an array
-// let marks = [50, 70, 88, 23, 98, 36, 45, 78, 82];
-// let max = marks[0];
-// for (let i = 0; i < marks.length; i++) {
-//   let element = marks[i];
-//   if (element > max) {
-//     max = element;
-//   }
-// }
-// console.log(max);
-// //expected output: 98
+//How to find the largest number inside an array
 
-let arr = [1, 2, 3, 4, 6, 20, 7];
+const numbersArray = [2, 5, 40, 33, 76, 80, 12, 96, 20];
 
-let max = arr[0];
+let max = numbersArray[0];
 
-for (let i = 0; i < arr.length; i++) {
-  let ele = arr[i];
+for (let i = 0; i < numbersArray.length; i++) {
+  let ele = numbersArray[i];
   if (ele > max) {
     max = ele;
   }
 }
 
 console.log(max);
+//expected output: 96
