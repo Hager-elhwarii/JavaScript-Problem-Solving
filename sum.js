@@ -12,7 +12,7 @@ const result = getArraySum(numbers);
 console.log(result);
 //expected output: 28
 
-// Sum using reduce
+// Sum using reduce method
 const sumResult = numbers.reduce((accumulator,currentValue)=> {
   return accumulator + currentValue
 },0)
