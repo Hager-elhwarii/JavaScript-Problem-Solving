@@ -1,4 +1,6 @@
 // Find sum of the numbers inside an array.
+const numbers = [1, 2, 7, 6, 20, 5, 4, 33];
+
 function getArraySum(numbers) {
   let sum = 0;
   for (let i = 0; i < numbers.length; i++) {
@@ -7,7 +9,6 @@ function getArraySum(numbers) {
   }
   return sum;
 }
-const numbers = [1, 2, 7, 6, 20, 5, 4, 33];
 const result = getArraySum(numbers);
 console.log(result);
 //expected output: 28
