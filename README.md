@@ -1,4 +1,4 @@
-# :bulb: 22 JavaScript Problem Solving
+#  22 JavaScript Problem Solving :bulb:
 <a name="readme-top"></a>
 - A collection of JavaScript problems and solutions for studying algorithms.
 
