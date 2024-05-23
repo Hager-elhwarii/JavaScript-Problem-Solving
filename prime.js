@@ -1,10 +1,10 @@
 function primeNumber (n){
     for(let i = 2; i < n; i++){
         if(n % i == 0 ){
-            return 'this is not prime number'
+            return 'This is not a prime number'
         }
         else{
-           return 'its prime number'
+           return 'It\'s prime number'
         }
     }
 }
