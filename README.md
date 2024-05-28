@@ -20,3 +20,7 @@ git clone https://github.com/Hager-elhwarii/22-JavaScript-Problem-Solving.git
 -  [GitHub](https://github.com/Hager-elhwarii)
 
 <p align="right"><a href="#readme-top">[↑] back to top</a></p>
+
+
+## 📘 License
+This project is **Totally Free**,  and does not contain any license.
